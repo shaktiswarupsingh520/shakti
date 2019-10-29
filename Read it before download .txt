@@ -1,0 +1,12 @@
+Steps To run this program
+1. Install Python 3.0
+2. Install Anaconda 3
+3. Open Jupyter Notebook on Anaconda Navigator
+4. Download all the below files
+5. Open stddyn.ipynb and press shift+enter or run in the notepad taskbar.
+6. If any Error Arise while running feel free to contact me
+
+Contact Num: +917978149727
+Email Id:    shaktiswarupsingh520@gmail.com
+
+Enjoy My Code..........
